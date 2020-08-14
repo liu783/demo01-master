@@ -6,7 +6,7 @@ public class Stu {
 
 		System.out.println("demo01");
 
-
+		System.out.println("dome02");
 
 	}
 
